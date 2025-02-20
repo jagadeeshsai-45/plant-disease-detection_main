@@ -1,0 +1,6 @@
+Flask
+numpy
+tensorflow
+pillow
+gdown
+gunicorn  # For deployment (optional)
